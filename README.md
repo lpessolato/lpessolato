@@ -16,7 +16,7 @@ Me chamo Lucas Pessolato, sou desenvolvedor Front-End, com foco em aprender e ev
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lpessolato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-#Contatos
+## Contatos
 
 <a href="https://www.linkedin.com/in/lucas-pessolato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "pessolatolucas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
