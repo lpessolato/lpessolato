@@ -4,6 +4,8 @@
 
 Me chamo Lucas Pessolato, sou desenvolvedor Front-End, com foco em aprender e evoluir.
 
+## Tecnologias usadas
+
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=orange) 
 ![CSS3](https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=CSS3&logoColor=%230390fc)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
