@@ -19,4 +19,4 @@ Me chamo Lucas Pessolato, sou desenvolvedor Front-End, com foco em aprender e ev
 ## Contatos
 
 <a href="https://www.linkedin.com/in/lucas-pessolato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "pessolatolucas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:pessolatolucas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
