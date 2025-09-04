@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Me chamo Lucas Pessolato, sou desenvolvedor Front-End, com foco em aprender e evoluir.
+Me chamo Lucas Pessolato, sou desenvolvedor Full-stack, com foco em aprender e evoluir.
 
 ## Tecnologias usadas
 
